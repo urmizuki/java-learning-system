@@ -11,7 +11,7 @@ This codebase is my working lab for turning core Java theory into implementation
 - **Defensive programming** with input validation and explicit error handling (for example in `Car`)
 - **Incremental design refinement** through small executable test drivers (`TestCourse`, `TestSalary`, `TestCustomerOrder`, `TestCar`)
 
-## 💡 System Perspective
+## System Perspective
 
 This project treats Java concepts as a small working system rather than isolated exercises. Each module simulates a real-world domain interaction.
 

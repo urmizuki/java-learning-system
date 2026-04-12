@@ -11,6 +11,10 @@ This codebase is my working lab for turning core Java theory into implementation
 - **Defensive programming** with input validation and explicit error handling (for example in `Car`)
 - **Incremental design refinement** through small executable test drivers (`TestCourse`, `TestSalary`, `TestCustomerOrder`, `TestCar`)
 
+## 💡 System Perspective
+
+This project treats Java concepts as a small working system rather than isolated exercises. Each module simulates a real-world domain interaction.
+
 ## Repository Structure
 
 ```text
@@ -37,7 +41,13 @@ mkdir -p bin
 javac -d bin src/oop/*.java src/exercises/*.java src/Main.java
 ```
 
-Run selected demos:
+Run the interactive learning system:
+
+```bash
+java -cp bin Main
+```
+
+Run selected demos directly:
 
 ```bash
 java -cp bin labProgramming.TestCustomerOrder

@@ -1,4 +1,4 @@
-package labProgramming;
+package oop;
 
 public class Customer {
 

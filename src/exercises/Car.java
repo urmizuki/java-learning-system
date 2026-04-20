@@ -1,4 +1,4 @@
-package selfExercise;
+package exercises;
 
 import java.util.Objects;
 

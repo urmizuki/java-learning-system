@@ -1,4 +1,4 @@
-package labProgramming;
+package oop;
 
 public class Testing {
     public static void main(String[] args) {

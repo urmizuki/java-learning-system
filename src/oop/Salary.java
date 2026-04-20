@@ -1,7 +1,7 @@
 //ALIF SAFWAN BIN SAIFUL ADLI
 //BC252095
 
-package labProgramming;
+package oop;
 import java.util.Scanner;
 
 public class Salary {

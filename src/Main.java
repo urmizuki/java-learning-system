@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-import labProgramming.Course;
-import labProgramming.Customer;
-import labProgramming.Order;
-import labProgramming.Salary;
-import selfExercise.Car;
-import selfExercise.Exercise1;
-import selfExercise.Halo;
+import oop.Course;
+import oop.Customer;
+import oop.Order;
+import oop.Salary;
+import exercises.Car;
+import exercises.Exercise1;
+import exercises.Halo;
 
 // Java Fundamentals Learning System:
 // A small CLI that groups OOP and practice modules into a single beginner-friendly workflow.
